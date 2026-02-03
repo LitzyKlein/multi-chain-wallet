@@ -37,8 +37,10 @@ no compilation required.
 3. Run:
 
 ```bat
-mnemonicToAddress.exe "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"
+mnemonicToAddress.exe "<mnemonic>"
 
+Example:
+mnemonicToAddress.exe "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"
 
 Sample Output
 

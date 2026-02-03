@@ -42,6 +42,7 @@ Example:
 mnemonicToAddress.exe "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"
 <div>
 </div>
+---
 Sample Output:
 
 0x9858EfFD232B4033E47d90003D41EC34EcaEda94

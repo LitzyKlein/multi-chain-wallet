@@ -36,7 +36,6 @@ no compilation required.
 2. Open a terminal in that folder.
 3. Run:
 
-```bat
 mnemonicToAddress.exe "<mnemonic>"
 
 Example:

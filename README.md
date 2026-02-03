@@ -37,7 +37,7 @@ no compilation required.
 3. Run:
 
 Example:
-bat
+```bat
 mnemonicToAddress.exe "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"
 ---
 Sample Output

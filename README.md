@@ -37,9 +37,10 @@ no compilation required.
 3. Run:
 
 Example:
-<div>
+
 ```bat
 mnemonicToAddress.exe "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"
+<div>
 </div>
 Sample Output:
 

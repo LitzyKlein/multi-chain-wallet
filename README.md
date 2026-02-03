@@ -36,8 +36,6 @@ no compilation required.
 2. Open a terminal in that folder.
 3. Run:
 
-mnemonicToAddress.exe "<mnemonic>"
-
 Example:
 mnemonicToAddress.exe "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"
 
